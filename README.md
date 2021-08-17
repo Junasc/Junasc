@@ -2,7 +2,6 @@
 
 - ☕ I’m currently learning java 
 - 📫 How to reach me: pessoal.juliana.n@gmail.com
-- 😄 Pronouns: ela/dela
 - ⚡ Fun fact: I program games but I'm a bad player 🎮👎
 
 

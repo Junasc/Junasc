@@ -9,8 +9,8 @@
 
  <div style="display: flex; flex-direction: row">
   <a href="https://github.com/Junasc">
-  <img height="170em" width="50%" src= "https://github-readme-stats.vercel.app/api?username=Junasc&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="170em" width="50%" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=Junasc&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="170em" width="40%" src= "https://github-readme-stats.vercel.app/api?username=Junasc&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="170em" width="40%" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=Junasc&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   
   ##

@@ -14,11 +14,11 @@
 </div>
   
   ##
+
+  <img  src="https://img.icons8.com/dusk/64/000000/cs.png" align= "middle"/>
+  <img  src="https://img.icons8.com/dusk/64/000000/java-coffee-cup-logo.png" align= "middle"/>
+  <img  src="https://img.icons8.com/nolan/64/java-eclipse.png" align= "middle"/>
+  <img  src="https://img.icons8.com/dusk/64/000000/unity.png" align= "middle"/>
+  <img  src="https://img.icons8.com/nolan/64/visual-studio-code-2019.png" align= "middle"/>
  
-  <img src="https://img.icons8.com/dusk/64/000000/cs.png"/>
-  <img src="https://img.icons8.com/dusk/64/000000/java-coffee-cup-logo.png"/>
-  <img src="https://img.icons8.com/nolan/64/java-eclipse.png"/>
-  <img src="https://img.icons8.com/dusk/64/000000/unity.png"/>
-  <img src="https://img.icons8.com/nolan/64/visual-studio-code-2019.png"/>
-  
 </div>

@@ -15,7 +15,6 @@
  
 <p align="center">
  <img src="https://img.icons8.com/dusk/64/000000/cs.png" />
- <img src="https://img.icons8.com/nolan/64/java-eclipse.png" />
  <img src="https://img.icons8.com/dusk/64/000000/unity.png" />
  <img src="https://img.icons8.com/nolan/64/visual-studio-code-2019.png" />
 </p>

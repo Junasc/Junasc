@@ -14,9 +14,11 @@
 <hr>
  
 <p align="center">
+ <img src= "https://img.icons8.com/nolan/64/javascript.png" />
  <img src="https://img.icons8.com/nolan/64/css-filetype.png"/>
  <img src="https://img.icons8.com/nolan/64/html.png"/>
  <img src="https://img.icons8.com/nolan/64/cs.png"/>
  <img src="https://img.icons8.com/nolan/64/unity.png"/>
  <img src="https://img.icons8.com/nolan/64/visual-studio-2019.png"/>
+ 
 </p>

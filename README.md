@@ -1,6 +1,6 @@
 ### Hi there!! I'm Juliana Nascimento 👋
 
-- ☕ I’m currently learning HTML&CSS.
+- ☕ I’m currently learning Javascript.
 - 📫 How to reach me: pessoal.juliana.n@gmail.com
 - ⚡ Fun fact: I program games but I'm a bad player 🎮👎
 

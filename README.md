@@ -1,6 +1,6 @@
 
 <p align="center">
-<img src= "https://media-exp1.licdn.com/dms/image/C4D16AQFRzfoWnU3uGQ/profile-displaybackgroundimage-shrink_350_1400/0/1662399279337?e=1668038400&v=beta&t=mESV_J0iq06000BlOkbpPnUhPJSXrJjX65llnhBKZWs" >
+<img src= "https://media-exp1.licdn.com/dms/image/D4D16AQGRLXyz6cqcKw/profile-displaybackgroundimage-shrink_200_800/0/1666012171044?e=2147483647&v=beta&t=S2D7G7zkxRwRgLtrkD81RSGyyfrgGk7Xb9QvEGXM5EQ" >
 
 
 </p>
